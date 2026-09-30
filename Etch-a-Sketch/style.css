@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+    height: 960px;
+    margin-top: 10px;
+}
+
+.square {
+    border: 1px solid lightgray;
+}
